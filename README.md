@@ -7,7 +7,7 @@
 |--|--|
 | Módulo | Criando Um Pequeno Sistema Para Validação de Processo Seletivo |
 | Com | Gleyson Sampaio |
-| Bootcamp | Santander Bootcamp 2023 - Fullstack Java+Angular |
+| Bootcamp | Santander 2024 - Backend com Java |
 | Plataforma | DIO |
 
 
